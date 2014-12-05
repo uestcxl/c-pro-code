@@ -1,7 +1,5 @@
 /**
  * @file   cdecl.c
- * @author Aliaksiej Artamonaŭ <aliaksiej.artamonau@gmail.com>
- * @date   Sun Jul 25 16:07:11 2010
  *
  * @brief  A program that descrypts C type declarations. Implemented as
  *         an exercise for "Expert C Programming" book.
